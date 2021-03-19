@@ -1,2 +1,0 @@
-# pawnbot
-A discord bot
